@@ -23,7 +23,7 @@
 		<spring.ws.version>2.0.0.RELEASE</spring.ws.version>
 
 		<!-- Drools -->
-		<drools.version>6.1.0.Final</drools.version>
+		<drools.version>7.60.0.Final</drools.version>
 
 		<!-- Logging -->
 		<logback.version>1.0.13</logback.version>
